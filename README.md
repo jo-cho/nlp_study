@@ -16,3 +16,4 @@
    - RNN
    - CNN
    - seq2seq & Attention
+   - transformer
