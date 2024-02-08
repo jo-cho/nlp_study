@@ -13,6 +13,7 @@
    - 원본 + 발제
 
 5. 이론 정리
+   - LSA & LDA
    - Word Embedding
    - RNN
    - CNN
