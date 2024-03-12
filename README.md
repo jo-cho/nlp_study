@@ -14,7 +14,7 @@
 
 5. 이론 정리
    - TF-IDF
-   - LSA & LDA
+   - Topic Modeling(LSA & LDA)
    - Word Embedding
    - RNN
    - CNN
