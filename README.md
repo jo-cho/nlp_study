@@ -12,7 +12,7 @@
 3. 논문/연구자료 정리
    - 원본 + 발제
 
-5. 이론 정리
+4. 이론 정리
    - TF-IDF
    - Topic Modeling(LSA & LDA)
    - Word Embedding
@@ -21,3 +21,5 @@
    - Seq2seq & Attention
    - Transformer
    - BERT
+  
+** [자연어처리 사내 스터디(2023.12~)](https://github.com/kjh8331267/NLP_study?tab=readme-ov-file)
