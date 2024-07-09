@@ -48,7 +48,7 @@ def main():
     st.title("📄PDF 요약하기")
     st.divider()
     pdf = st.file_uploader('PDF파일을 업로드해주세요', type='pdf')
-    login("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")
+    login("my_token")
     hf_token = st.text_input("Hugging Face Token", type="password")
     if not hf_token:
         st.error("Please enter your Hugging Face token.")
