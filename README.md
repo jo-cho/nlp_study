@@ -25,6 +25,7 @@
    - BERT
    - Domain-specific LLM
    - RAG
+   - Langchain
 
 관련 레포지토리:
 - [자연어처리 사내 스터디(2023.12~)](https://github.com/kjh8331267/NLP_study?tab=readme-ov-file)
